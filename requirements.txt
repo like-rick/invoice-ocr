@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+rapidocr-onnxruntime
+pillow
+numpy
+PyMuPDF
